@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.1-blue)]()
 [![Electron](https://img.shields.io/badge/Electron-28.3.3-47848f)]()
-[![License](https://img.shields.io/badge/license-BUSL-orange)]()
+[![License](https://img.shields.io/badge/license-BUSL-orange)](https://github.com/AlexVin-Dev/AvglTracker/tree/main?tab=License-1-ov-file)
 
 **Avgar Line Tracker** — это десктопное приложение для автоматического отслеживания рейсов в Euro Truck Simulator 2 и American Truck Simulator. Оно читает данные телеметрии игры и отправляет информацию о завершённых рейсах на сервер. Приложение предназначено **исключительно для сотрудников компании AVG** — сервер проверяет принадлежность пользователя к компании по уникальному идентификатору (UUID).
 
